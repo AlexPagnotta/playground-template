@@ -20,7 +20,6 @@
       { "ignoreRestSiblings": true }
     ], //require variables to be used, but ignore unused vars in destructuring
 
-    "import/no-default-export": "warn",
     "import/order": [
       "error",
       {
@@ -31,6 +30,6 @@
           "caseInsensitive": true
         }
       }
-    ],
+    ]
   }
 }
